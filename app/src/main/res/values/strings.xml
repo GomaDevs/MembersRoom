@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyMembersRoom</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hello">Members Area</string>
+    <string name="u">Username</string>
+    <string name="l">Login</string>
+    <string name="r">Register</string>
+    <string name="p">......</string>
+
+</resources>
